@@ -2,7 +2,6 @@
 # returns the phrase
 
 
-def parrot(string)
-string = Squawk!
+def parrot(string="Squawk!")
 puts "Squawk!"
 end
